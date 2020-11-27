@@ -8,3 +8,8 @@ Hobby objective to create a personal assistant that responds to individual needs
 It will be containarized for easy deployment using docker.
 
 In development.
+
+It's not intended to have a language model like GPT behind so response customization is possible for common interactions, selected from pools of responses that can expand.
+Using Json file to keep storage of possible responses to pre-determined states.
+
+It should not be amorphous, so responses are variable with feelings
