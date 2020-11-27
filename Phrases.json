@@ -1,0 +1,32 @@
+{
+  "Greetings_descr" : "For use in greetings",
+  "Greetings": [
+    "Hi",
+    "Hello there!",
+    "Feeling alive again!",
+    "I was sleeping, what do you want?",
+  ],
+  "Goodbye_desc" : "For use in Goodbye sentences",
+  "Goodbye": [
+    "Shutting Down",
+    "Will we ever see each other again?"
+  ],
+  "Small_greet_desc" : "Small greetings",
+  "Small_greet": [
+    "Hi",
+    "Hello",
+    "Hey",
+  ],
+  "Repeat_desc": "To ask to repeat",
+  "Repeat":[
+    "Sorry, could you repeat",
+    "Couldn't understand that, can you repeat?",
+    "Again please!"
+  ],
+  "No_command_desc": "If no command found",
+  "No_command": [
+    "Hey, you sure you used a command word?",
+    "Sorry, no command found, can you go again?"
+
+  ]
+}

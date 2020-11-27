@@ -1,5 +1,6 @@
 #Custom ignores
-
+tests.py
+personalkeys.json
 
 
 #Standard .gitignore follows
